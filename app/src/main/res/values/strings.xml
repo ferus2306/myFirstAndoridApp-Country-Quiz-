@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Country quiz</string>
+    <string name="start_button">START</string>
+    <string name="countries">Countries</string>
+    <string name="quizImage">quizImage</string>
+
+    <string name="russia">Russia</string>
+    <string name="us">USA</string>
+    <string name="greece">Greece</string>
+    <string name="mexico">Mexico</string>
+
+
+
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+
+
+
+</resources>
